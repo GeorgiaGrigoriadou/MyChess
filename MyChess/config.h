@@ -1,0 +1,13 @@
+#pragma once
+
+#define ASSET_PATH "assets\\" 
+
+#define WINDOW_WIDTH 1280
+#define WINDOW_HEIGHT 720
+#define CANVAS_WIDTH 1280
+#define CANVAS_HEIGHT 720
+#define CHESSBOARD_WIDTH 600
+#define CHESSBOARD_HEIGHT 600
+#define CELL_EDGE (CHESSBOARD_WIDTH/8)
+#define CELL_RADIUS (CELL_EDGE/2)
+#define MOVE_RADIUS (CELL_EDGE/4)
